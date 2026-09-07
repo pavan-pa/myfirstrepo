@@ -1,6 +1,5 @@
 public class CircleArea {
 
-    public static void main(String[] args) {
         // Declare variables for the circle
         double radius = 5.5;
         double pi = 3.14159;
